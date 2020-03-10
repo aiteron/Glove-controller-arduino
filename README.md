@@ -1,5 +1,4 @@
-# Glove-controller-arduino-
-Glove contorller (arduino)
+# Glove controller (arduino)
 
 TODO - Add description
 
